@@ -1,7 +1,0 @@
-{
-    "locales": ["en", "fr", "nl"],
-    "defaultLocale": "en",
-    "pages": {
-      "/": ["home"]
-    }
-  }
