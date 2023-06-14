@@ -17,7 +17,7 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
-    "@cloudflare/next-on-pages": "^1.0.2",
+    "@cloudflare/next-on-pages": "https://prerelease-registry.devprod.cloudflare.dev/next-on-pages/runs/5272569068/npm-package-next-on-pages-315",
     "autoprefixer": "^10.4.14",
     "next-translate-plugin": "^2.0.5",
     "postcss": "^8.4.24",
