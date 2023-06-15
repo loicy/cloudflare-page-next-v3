@@ -14,7 +14,8 @@
     "next": "13.4.5",
     "next-translate": "^2.0.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "@cloudflare/next-on-pages": "https://prerelease-registry.devprod.cloudflare.dev/next-on-pages/runs/5272569068/npm-package-next-on-pages-315"
   },
   "devDependencies": {
     "@cloudflare/next-on-pages": "https://prerelease-registry.devprod.cloudflare.dev/next-on-pages/runs/5272569068/npm-package-next-on-pages-315",
